@@ -1,0 +1,427 @@
+0. Claw swype.
+1. Headbut.
+2. Eevil eyes.
+3. Sneer.
+4. Groul.
+5. Quicken.
+6. Pounce
+7. Exorcise
+8. Swoop
+9. Holy water
+10. Byte
+11. Batter branch
+12. Venom shot
+13. Fire breath
+14. Tidal wave
+15. Thicken
+16. Electric shock
+17. Laser arm
+18. Metal fyst
+19. Aura master
+20. Sandy wind
+21. Majic light
+22. Byte
+23. Sonic boomb
+24. Focuse
+25. Fireball flurry
+26. Sharpen
+27. Mana boost
+28. Fear feed
+29. Stagnant goo
+30. Wind force
+31. Smoke and mirrors
+32. Darck gift
+33. Scourge Tail
+34. Smoke Shield
+35. Blaze rampage
+36. Charge tackle
+37. Ash rain
+38. Flame blizard
+39. Dissonant_chime
+40. Slam
+41. Aqua Zap
+42. Mud ball
+43. Pummle
+44. Drench
+45. Aerial vision
+46. Storm rush
+47. Entangle
+48. Uproot
+49. Sleep spray
+50. Toxic spray
+51. Stun Spray
+52. Photosinthesis
+53. Earthquake
+54. Condemn
+55. Devine protection
+56. Holy Light 
+57. White lance
+58. Shred
+59. Soul split
+60. Oblivion slash
+61. Black mana
+62. Obscure
+63. Cyclone claw
+64. Restoration
+65. Fly
+66. Hone blade
+67. Subliminal_radio_wave
+68. Berserk branch
+69. Rage Bug
+70. Toxic storm
+71. Power punch
+72. Power kick
+73. Battle cry
+74. Fang Drain
+75. Star fall
+76. Stun volt
+77. Supersparck
+78. Vulnerability scan
+79. Knockout venom
+80. Piledriver
+81. Meteor rush
+82. Electric shield
+83. Thunderstorm
+84. Zap slam
+85. Peck
+86. Sonic miciles
+87. Sing
+88. Suicide dive
+89. Sound wave
+90. Hevens winds
+91. Volume level
+92. Glair
+93. Poison dart
+94. Roar
+95. Toxic tail
+96. Bubble
+97. Sucker root
+98. Power leef
+99. Death cry
+100. Copy
+101. Unending curst
+102. Bazaar ilusion
+103. Guard up
+104. Splash
+105. Waterlog
+106. Lightning bolt
+107. Solar conversion
+108. Assault tackle
+109. Nature dance
+110. Polution solution
+111. Powerfang
+112. Lava lick
+113. Fire stream
+114. Rookie punch
+115. Rookie kick
+116. Black byte
+117. Blind rush
+118. Quake
+119. Slash
+120. Charge of fury
+121. Stone thro
+122. Takedown
+123. Shatter
+124. Gravle guard
+125. Mudslide
+126. Sterdy stone
+127. Polish
+128. Iron tackle
+129. Iron guard
+130. Inner healing
+131. Power pasify
+132. Cute eyes
+133. Dairing comeback
+134. Horrify
+135. Krunch
+136. Energy burst
+137. Stifle
+138. Try beem
+139. Teleport
+140. Suffocate
+141. Manatize
+142. Demanatize
+143. Eternal vortex
+144. Power serge
+145. Sparcking tail
+146. Bone kick
+147. Skull duggery
+148. Clobber
+149. Desoul
+150. Mini Tornado
+151. Waterbomb
+152. Rehydrate
+153. Dragon fang
+154. Draco breaker
+155. Devine barrier
+156. Broille
+157. Tunnel
+158. Ice cutter
+159. Frigid touch
+160. Ice tempist
+161. Spirit force
+162. Hydro fang
+163. Restrain
+164. Meow
+165. Retribution
+166. Lim thrust
+167. Bubble burst
+168. Thunder hammer
+169. Implant
+170. Alphadrain
+171. Gamadrain
+172. Adrenalin rush
+173. Tricky gaze
+174. Psycho trick
+175. Steel horn
+176. Tramples
+177. Iron impact
+178. Nite stick
+179. Diabolical fire
+180. Charge
+181. Hammer head
+182. Grave gun
+183. Deadman's curst
+184. Nite terror
+185. Acid slap
+186. Vicizom
+187. Oos blast
+188. Soul ripper
+189. Rock barrage
+190. Feather down
+191. Rev up
+192. Cyclone
+193. Dragon birst
+194. Wing slash
+195. Elemental breath
+196. Torch
+197. Majic wave
+198. Shadow Claw
+199. Stone fyst
+200. Rock avalanch
+201. Rock n role
+202. Snowball
+203. Frostbyte
+204. Try kick
+205. Hybernate
+206. Frenzied_rage
+207. Tail wag
+208. Audio blast
+209. Stunning call
+210. Berserk call
+211. Call to arms
+212. Execution
+213. Snow shuvvles
+214. Team soke
+215. Draco blits
+216. Majic dragon
+217. Solar cannon
+218. Mistic guard
+219. Final endeavor
+Irroadium exclusive
+222. Demonic oblivion
+223. Vulnerability oblivion
+224. Final oblivion
+
+Manamon 2 exclusive
+219. Bellow
+220. Quickblade
+221. Jumpblitz
+222. Flurry Claws
+223. Downpour
+224. Aquatic Blitz
+225. Stingray
+226. Petal Storm
+227. Sonic Screech
+228. Wild Vibration
+229. Miracle Adrenaline
+230. Soothing Symphony
+231. Tactical Rush
+232. Wallow
+233. Full Moon Blessing
+234. Leaf Leverage
+235. Startle
+236. Nature Smash
+237. Parrot
+238. Dive Bomb
+239. Intimidating Stare
+240. Fury Power
+241. Vengeance Strike
+242. Pest Pincer
+243. Plague
+244. Decibel Tackle
+245. Decibel Rush
+246. Shadow Sphere
+247. Sunshine Song
+248. Righteous Rend
+249. Singe
+250. Megasinge
+251. Gigasinge
+252. Volcanic Storm
+253. Teramagma
+254. Stone Pyramid
+255. Pitfall
+256. Assault Gem
+257. Beyond Bolt
+258. Wraith's Curse
+259. Aura Guard
+260. Lunar Cannon
+261. Sawtooth
+262. Iron Maiden
+263. Thunder Fist
+264. Smite
+265. Holy Claw
+266. Forbid
+267. Holy Smoke
+268. Staff Slash
+269. Restoring Light
+270. Sludge Guard
+271. Geowhack
+272. Land Power
+273. Contained Quake
+274. Tidalgun
+275. Element Assault
+276. Decay Dust
+277. Mud Blast
+278. Deluge
+279. Dive
+280. Flood
+281. Powerdown
+282. Powerdown V2
+283. Energy Pulse
+284. Oblivion Dance
+285. Cloud Surge
+286. Ancient Claw
+287. Necro Jab
+288. Bark Rake
+289. Slime Bullet
+290. Nature Overdrive
+291. Sludge Hammer
+292. Acid Branch
+293. Astral Buster
+294. Poltergeist
+295. Eclipse Rocket
+296. Parasite Bite
+297. Swarm Storm
+298. Sticky Web
+299. Feedback Shock
+300. Combat Sonata
+301. Attack Concerto
+302. Sap Bomb
+303. Plummet
+304. Speed Kick
+305. Tail Smack
+306. Blaze Punch
+307. Spark Punch
+308. Ice Punch
+309. Spirit Sight
+310. Mighty Shuriken
+311. Family Duo
+312. Chemical Blaze
+313. Barrier
+314. Hyperbreaker
+315. Sandstorm
+316. Conjure Sword
+317. Desecrate
+318. Team Alert
+319. Amplify Voice
+320. Psychedelic Spell
+321. Sonic Force
+322. Aura Impact
+323. Grime Enhance
+324. Poison Ball
+325. Branch Thrash
+326. Siren's Song
+327. Heat Cloud
+328. Boiling Earth
+329. Multiflare
+330. Earth Tornado
+331. Shell Break
+332. Counter Strike
+333. Acid Rain
+334. Poison Pressure
+335. Counter Spell
+336. Protect
+337. Marina Overdrive
+338. Inferno Overdrive
+339. Ice Pelt
+340. Freeze Ray
+341. Black Ice
+342. Compact
+343. Battery Burst
+344. Overcharge
+345. Antigravity
+346. Hypermagnet
+347. Dragon Heart
+348. Flash Scale
+349. Volt Tower 
+350. Dragon Fury
+351. Final Thunder
+352. Final Dragon
+353. Libation
+354. Omega Sandstorm
+355. Hone Mind
+356. Antidefense
+357. Attack Prayer
+358. Defense Prayer
+359. Entice
+360. Snowstorm
+361. Mindless Charge
+362. Crystal Slash
+363. Snowman
+364. Chilly Wind
+365. Dragon Flurry
+366. Dragon Blast
+367. Dragon Strike
+368. Stone Crash
+369. Death Thrash
+370. Snowdrift
+371. Swift Slam
+372. Ultrascent
+373. Rolling Stone
+374. Stone Spin
+375. Stone Storm
+376. Geocombat
+377. Dracoslide
+378. Ceremonial Whisper
+379. Ruckus
+380. Flying Frenzy
+381. Dark Fang
+382. Chomp
+383. Boulder Bash
+384. Stonewall
+385. Aerial Caper
+386. Team Immunity
+387. Steel Stomp
+388. Hydro Nova
+389. Daze Spray
+390. Null Energy
+391. Unknown Virus
+392. Sucker Punch
+393. Shadow Show
+394. Zombie Breath
+395. Retaliate
+396. Screen Shatter
+397. Unshackle
+398. Firestorm
+399. Hurricane
+400. Electric Fire
+401. Chaos Energy
+402. Desiccate Beam
+403. Final endeavor
+406. Demonic Oblivion
+407. Vulnerability Oblivion
+408. Final Oblivion
+409. Otherworld Abyss
+410. Flame apocalips
+411. Water Apocalips
+412. Plant Apocalips
+413. Chaos Chamber
+414. Vulnerability Protocol
+415. Bomb Box Detonate
+416. Chaos light
+417. Chaos Blast
+418. Chaos Drain
+419. Chaos Drench
+420. Chaos Swipe
+421. Rinzina Explosion
